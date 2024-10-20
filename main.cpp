@@ -9,7 +9,6 @@
 
 
 
-// hiddenlar failliyor sanırım aynı indirim falan filan muhabbetleri var
 
 #include <iostream>
 using namespace std;
