@@ -2,7 +2,7 @@
 //  main.cpp
 //  homework 1
 //
-//  Created by Mert Güngör on 16.10.2024.
+//  Created by Mert on 16.10.2024.
 //
 
 
